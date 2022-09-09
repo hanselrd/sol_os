@@ -1,1 +1,1 @@
-# sol_os
+# Sol OS
